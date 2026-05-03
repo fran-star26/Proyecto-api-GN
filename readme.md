@@ -672,9 +672,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 📞 Contacto
 
-- Email: rfloresa1900@alumno.ipn.mx
-- GitHub: [@RodrigoFA216](https://github.com/RodrigoFA216)
-- LinkedIn: [Rodrigo Flores](https://www.linkedin.com/in/rodrigo-flores-ea/)
+- Email: fbautistas2000@alumno.ipn.mx
+- GitHub: [@fran-star26](https://github.com/fran-star26)
+
 
 ## 🔮 Roadmap
 
